@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## Welcome to NFT Bot Man's Homepage
 
-You can use the [editor on GitHub](https://github.com/nftbotman/nftbotman.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Thanks for your interest in our bots.  We've currently worked in two servers and offer the best support and service for your Discord bot. Our prices are extremely reasonable and hosting is on us.  Safe payment always- delivery before payment!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Whitelist Bot
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- *Keep users’ wallets safe
+- *Save your team time and hassle
+- *Automated confirmation for users
+- *Ability to change addresses
+- *All done in DM for security
+- *Customized with your own bot name and avatar
 
-```markdown
-Syntax highlighted code block
+**Only .1 ETH, installed and delivered before payment**
 
-# Header 1
-## Header 2
-### Header 3
+### Open Sea Bot
 
-- Bulleted
-- List
+*All commands optional, can remove any if not wanted
 
-1. Numbered
-2. List
+- *Sales and Listings channel for your server 
+- *Total number of owners command
+- *Floor price command
+- *NFT display command
+- *OpenSea traits/properties command
+- *Info command to show project overview
+- *Highest command to show highest price for specific token
+- *Whale count to show how many whales with 50+ tokens
+- *Minting commands for last mint and how many minted
+- *Top holders command to show top holding addresses
+- *Customized with your own bot name and avatar
 
-**Bold** and _Italic_ and `Code` text
+**Only .3 ETH, installed and delivered before payment**
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nftbotman/nftbotman.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with our bots or have a few questions? Join our [Discord server](https://discord.gg/7Fe4TZFn8X) or DM @NFTBotman#8262 and we’ll help you sort it out. 
