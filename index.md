@@ -1,6 +1,6 @@
 ## Welcome to NFT Bot Man's Homepage
 
-Thanks for your interest in our bots.  We've currently worked in two servers and offer the best support and service for your Discord bot. Our prices are extremely reasonable and hosting is on us.  Safe payment always- delivery before payment!
+Thanks for your interest in our bots.  We've currently working in two servers and offer the best support and service for your Discord bot. Our prices are extremely reasonable and hosting is on us.  Safe payment always- we deliver before payment!  References available.
 
 
 ### Whitelist Bot
